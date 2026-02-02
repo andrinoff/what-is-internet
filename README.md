@@ -1,3 +1,8 @@
+> [!WARNING]
+> This text has been written in Russian. The Author does not associated, nor is supporting Ruzzia in any way. Слава Україні! 
+
+
+
 # Latex Doc Template
 
 A minimal Markdown-to-HTML document template with LaTeX math support. Write your content in a single Markdown file and get a clean, readable website.
