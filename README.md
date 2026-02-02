@@ -1,5 +1,5 @@
 > [!WARNING]
-> This text has been written in Russian. The Author does not associated, nor is supporting Ruzzia in any way. Слава Україні! 
+> This text has been written in Russian. The Author is not associated, nor is supporting Ruzzia in any way. Слава Україні! 
 
 
 
